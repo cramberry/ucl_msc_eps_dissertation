@@ -1,0 +1,161 @@
+﻿Airline,Continent,Country,To,From
+Ethiopian Airlines,South America,Argentina,Buenos Aires,São Paulo
+Ethiopian Airlines,South America,Brazil,São Paulo ,Addis Ababa
+Ethiopian Airlines,North America,Canada,Toronto,Addis Ababa
+Ethiopian Airlines,North America,USA,Los Angeles,Dublin
+Ethiopian Airlines,North America,USA,New York,Addis Ababa
+Ethiopian Airlines,North America,USA,Washington DC,Addis Ababa
+ASKY Airlines,North America,USA,New York,Lomé
+Ethiopian Airlines,ME,Bahrain,Bahrain,Addis Ababa
+Ethiopian Airlines,ME,Israel,Tel Aviv,Addis Ababa
+Ethiopian Airlines,ME,Kuwait,Kuwait City,Addis Ababa
+Ethiopian Airlines,ME,Lebanon,Beirut,Addis Ababa
+Ethiopian Airlines,ME,Oman,Muscat,Addis Ababa
+Ethiopian Airlines,ME,Saudia Arabia,Riyadh,Addis Ababa
+Ethiopian Airlines,ME,Saudia Arabia,Jeddah,Addis Ababa
+Ethiopian Airlines,ME,Saudia Arabia,Dammam,Addis Ababa
+Ethiopian Airlines,ME,Syria,Damascus,Addis Ababa
+Ethiopian Airlines,ME,UAE,Dubai,Addis Ababa
+Ethiopian Airlines,Europe,Austria,Vienna,Addis Ababa
+Ethiopian Airlines,Europe,Belgium,Brussels,Addis Ababa
+Ethiopian Airlines,Europe,France,Paris,Addis Ababa
+Ethiopian Airlines,Europe,Germany,Frankfurt,Addis Ababa
+Ethiopian Airlines,Europe,Germany,Munich,Addis Ababa
+Ethiopian Airlines,Europe,Ireland,Dublin,Addis Ababa
+Ethiopian Airlines,Europe,Italy,Milan,Addis Ababa
+Ethiopian Airlines,Europe,Italy,Rome,Addis Ababa
+Ethiopian Airlines,Europe,Sewden,Stockholm,Addis Ababa
+Ethiopian Airlines,Europe,Spain,Madrid,Addis Ababa
+Ethiopian Airlines,Europe,UK,London,Addis Ababa
+Ethiopian Airlines,East Asia,China,Chengdu,Addis Ababa
+Ethiopian Airlines,East Asia,China,Guangzhou,Addis Ababa
+Ethiopian Airlines,East Asia,China,Beijing,Addis Ababa
+Ethiopian Airlines,East Asia,China,Shanghai,Addis Ababa
+Ethiopian Airlines,East Asia,Hong Kong,Hong Kong,Addis Ababa
+Ethiopian Airlines,East Asia,Japan,Tokyo,Addis Ababa
+Ethiopian Airlines,East Asia,Malaysia,Kuala Lumpur,Addis Ababa
+Ethiopian Airlines,East Asia,Philippines,Manila,Addis Ababa
+Ethiopian Airlines,East Asia,Singapore,Singapore,Addis Ababa
+Ethiopian Airlines,East Asia,South Korea,Seoul,Addis Ababa
+Ethiopian Airlines,East Asia,Thailand,Bangkok,Addis Ababa
+Ethiopian Airlines,Asia,India,Mumbai,Addis Ababa
+Ethiopian Airlines,Asia,India,New Delhi,Addis Ababa
+Ethiopian Airlines,Africa,Angola,Luanda,Addis Ababa
+Ethiopian Airlines,Africa,Benin,Cotonou,Addis Ababa
+Ethiopian Airlines,Africa,Botswana,Gaborone,Addis Ababa
+Ethiopian Airlines,Africa,Burkina Faso,Ouagadougou,Addis Ababa
+ASKY Airlines,Africa,Burkina Faso,Ouagadougou,Lomé
+Ethiopian Airlines,Africa,Burundi,Bujumbura,Addis Ababa
+Ethiopian Airlines,Africa,Cameroon,Douala,Addis Ababa
+Ethiopian Airlines,Africa,Cameroon,Yaoundé,Addis Ababa
+ASKY Airlines,Africa,Cameroon,Douala,Lomé
+ASKY Airlines,Africa,Cameroon,Douala,Lagos
+ASKY Airlines,Africa,Cameroon,Yaounde,Libreville
+ASKY Airlines,Africa,Cameroon,Yaounde,Abuja
+Ethiopian Airlines,Africa,Central African Republic,Bangui,Addis Ababa
+ASKY Airlines,Africa,Central African Republic,Bangui,Douala
+Ethiopian Airlines,Africa,Chad,N'Djamena,Addis Ababa
+ASKY Airlines,Africa,Chad,N'Djamena,Abuja
+ASKY Airlines,Africa,Chad,N'Djamena,Douala
+Ethiopian Airlines,Africa,Comoros,Moroni,Addis Ababa
+Ethiopian Airlines,Africa,Côte d'Ivoire,Abidjan,Addis Ababa
+ASKY Airlines,Africa,Côte d'Ivoire,Abidjan,Accra
+ASKY Airlines,Africa,Côte d'Ivoire,Abidjan,Lomé
+Ethiopian Airlines,Africa,Djibouti,Djibouti,Addis Ababa
+Ethiopian Airlines,Africa,DRC,Lubumbashi,Addis Ababa
+Ethiopian Airlines,Africa,DRC,Goma,Addis Ababa
+Ethiopian Airlines,Africa,DRC,Kisangani,Addis Ababa
+Ethiopian Airlines,Africa,DRC,Mbuji-Mayi,Kisangani
+Ethiopian Airlines,Africa,DRC,Kinshasa,Addis Ababa
+ASKY Airlines,Africa,DRC,Kinshasa,Lomé
+ASKY Airlines,Africa,DRC,Kinshasa,Libreville
+Ethiopian Airlines,Africa,Egypt,Cairo,Addis Ababa
+Ethiopian Airlines,Africa,Equatorial Guinea,Malabo,Addis Ababa
+Ethiopian Airlines,Africa,Ethiopia,Addis Ababa,Addis Ababa
+Ethiopian Airlines,Africa,Ethiopia,Dire Dawa,Addis Ababa
+Ethiopian Airlines,Africa,Ethiopia,Kebridahar,Dire Dawa
+Ethiopian Airlines,Africa,Ethiopia,Gode,Kebridahar
+Ethiopian Airlines,Africa,Ethiopia,Gode,Addis Ababa
+Ethiopian Airlines,Africa,Ethiopia,Jijiga,Addis Ababa
+Ethiopian Airlines,Africa,Ethiopia,Asosa,Addis Ababa
+Ethiopian Airlines,Africa,Ethiopia,Gambella,Addis Ababa
+Ethiopian Airlines,Africa,Ethiopia,Jinka,Addis Ababa
+Ethiopian Airlines,Africa,Ethiopia,Arba Minch,Hawassa
+Ethiopian Airlines,Africa,Ethiopia,Arba Minch,Addis Ababa
+Ethiopian Airlines,Africa,Ethiopia,Hawassa,Addis Ababa
+Ethiopian Airlines,Africa,Ethiopia,Jimma,Addis Ababa
+Ethiopian Airlines,Africa,Ethiopia,Dembidollo,Jimma
+Ethiopian Airlines,Africa,Ethiopia,Dessie,Addis Ababa
+Ethiopian Airlines,Africa,Ethiopia,Dessie,Bahir Dar
+Ethiopian Airlines,Africa,Ethiopia,Semera,Addis Ababa
+Ethiopian Airlines,Africa,Ethiopia,Mekelle,Addis Ababa
+Ethiopian Airlines,Africa,Ethiopia,Mekelle,Semera
+Ethiopian Airlines,Africa,Ethiopia,Axum,Addis Ababa
+Ethiopian Airlines,Africa,Ethiopia,Shire,Addis Ababa
+Ethiopian Airlines,Africa,Ethiopia,Gondar,Addis Ababa
+Ethiopian Airlines,Africa,Ethiopia,Gondar,Lalibella
+Ethiopian Airlines,Africa,Ethiopia,Bahir Dar,Addis Ababa
+Ethiopian Airlines,Africa,Ethiopia,Bahir Dar,Dessie
+Ethiopian Airlines,Africa,Ethiopia,Lalibela,Addis Ababa
+Ethiopian Airlines,Africa,Ethiopia,Lalibela,Bahir Dar
+Ethiopian Airlines,Africa,Ethiopia,Humera,Mekelle
+ASKY Airlines,Africa,Ethiopia,Addis Ababa,Lomé
+Ethiopian Airlines,Africa,Gabon,Libreville,Addis Ababa
+ASKY Airlines,Africa,Gabon,Libreville,Lomé
+ASKY Airlines,Africa,Gabon,Libreville,Lagos
+Ethiopian Airlines,Africa,Ghana,Accra,Addis Ababa
+ASKY Airlines,Africa,Ghana,Accra,Lomé
+Ethiopian Airlines,Africa,Guinea,Conakry,Bamako
+ASKY Airlines,Africa,Guinea,Conakry,Bamako
+Ethiopian Airlines,Africa,Guinea-Bissau,Bissau,Addis Ababa
+ASKY Airlines,Africa,Guinea-Bissau,Bissau,Dakar
+Ethiopian Airlines,Africa,Kenya,Nairobi,Addis Ababa
+Ethiopian Airlines,Africa,Kenya,Mombassa,Addis Ababa
+Malawi Airlines,Africa,Kenya,Nairobi,Lilongwe
+ASKY Airlines,Africa,Liberia,Monrovia,Accra
+Ethiopian Airlines,Africa,Madagascar,Antananarivo,Addis Ababa
+Ethiopian Airlines,Africa,Madagascar,Nosy Be,Addis Ababa
+Ethiopian Airlines,Africa,Malawi,Lilongwe,Addis Ababa
+Ethiopian Airlines,Africa,Malawi,Blantyre,Addis Ababa
+Malawi Airlines,Africa,Malawi,Blantyre,Lilongwe
+ASKY Airlines,Africa,Mali,Bamako,Lomé
+Ethiopian Airlines,Africa,Mozambique,Maputo,Addis Ababa
+Ethiopian Airlines,Africa,Namibia,Windhoek,Addis Ababa
+Ethiopian Airlines,Africa,Niger,Niamey,Addis Ababa
+ASKY Airlines,Africa,Niger,Niamey,Ouagadoudou
+ASKY Airlines,Africa,Niger,Niamey,Cotonou
+Ethiopian Airlines,Africa,Nigeria,Kaduna,Addis Ababa
+Ethiopian Airlines,Africa,Nigeria,Kano,Addis Ababa
+Ethiopian Airlines,Africa,Nigeria,Abuja,Addis Ababa
+Ethiopian Airlines,Africa,Nigeria,Enugu,Addis Ababa
+Ethiopian Airlines,Africa,Nigeria,Lagos,Addis Ababa
+ASKY Airlines,Africa,Nigeria,Abuja,Lomé
+ASKY Airlines,Africa,Nigeria,Lagos,Accra
+Ethiopian Airlines,Africa,Republic of Congo,Brazzaville,Addis Ababa
+ASKY Airlines,Africa,Republic of Congo,Brazzaville,Kinshasa
+Ethiopian Airlines,Africa,Rwanda,Kigali,Addis Ababa
+Ethiopian Airlines,Africa,Senegal,Dakar,Lomé
+ASKY Airlines,Africa,Senegal,Dakar,Lomé
+Ethiopian Airlines,Africa,Seychelles,Seychelles,Addis Ababa
+ASKY Airlines,Africa,Sierra-Leone,Freetown,Accra
+Ethiopian Airlines,Africa,Somalia,Hargeisa,Addis Ababa
+Ethiopian Airlines,Africa,South Africa,Durban,Addis Ababa
+Ethiopian Airlines,Africa,South Africa,Capetown,Addis Ababa
+Ethiopian Airlines,Africa,South Africa,Johannesburg,Addis Ababa
+Malawi Airlines,Africa,South Africa,Johannesburg,Blantyre
+Ethiopian Airlines,Africa,South Sudan,Juba,Addis Ababa
+Ethiopian Airlines,Africa,Sudan,Khartoum,Addis Ababa
+Ethiopian Airlines,Africa,Tanzania,Kilimajaro,Addis Ababa
+Ethiopian Airlines,Africa,Tanzania,Dar es Salaam,Addis Ababa
+Ethiopian Airlines,Africa,Tanzania,Zanzibar,Addis Ababa
+Malawi Airlines,Africa,Tanzania,Dar es Salaam,Blantyre
+ASKY Airlines,Africa,The Gambia,Banjul,Freetown
+Ethiopian Airlines,Africa,Togo,Lomé,Addis Ababa
+Ethiopian Airlines,Africa,Uganda,Entebbe,Addis Ababa
+Ethiopian Airlines,Africa,Zambia,Lusaka,Addis Ababa
+Ethiopian Airlines,Africa,Zambia,Ndola,Addis Ababa
+Malawi Airlines,Africa,Zambia,Lusaka,Lilongwe
+Malawi Airlines,Africa,Zambia,Lusaka,Harare
+Ethiopian Airlines,Africa,Zimbabwe,Harare,Addis Ababa
+Ethiopian Airlines,Africa,Zimbabwe,Victoria Falls,Addis Ababa
+Malawi Airlines,Africa,Zimbabwe,Harare,Lilongwe
